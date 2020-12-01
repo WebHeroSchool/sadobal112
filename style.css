@@ -1,3 +1,30 @@
 .title{
 	font-family: Roboto;
 }
+.title{
+	font-family: Roboto;
+}
+body {
+	margin: 0;
+}
+.wrapper {
+  width: 80%;
+  margin: auto;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  padding: 40px 0px;
+}
+.menu{
+  display: flex;
+  align-items: center;
+}
+.menu__item {
+  padding: 0 13px;
+}
+.menu__item:last-child {
+  padding-right: 0px;
+}
